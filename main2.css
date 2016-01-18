@@ -1,0 +1,19 @@
+div{
+	height: 100px;
+	width: 150px;
+	margin-bottom: 10px;
+}
+
+.amarillo{
+	background-color: #FAC610;
+}
+
+.rojo{
+	background-color: #EA1025;
+}
+
+p{
+	margin: 0px;
+	font: 15px Arial;
+}
+

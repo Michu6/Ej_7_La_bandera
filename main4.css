@@ -1,0 +1,17 @@
+div{
+	padding: 10px;
+	display: inline;
+}
+
+.amarillo{
+	background-color: #FAC610;
+}
+
+.rojo{
+	background-color: #EA1025;
+}
+
+body{
+	font: 15px Arial;
+}
+

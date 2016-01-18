@@ -1,0 +1,16 @@
+
+.amarillo{
+	background-color: #FAC610;
+	height: 100px;
+}
+
+.rojo{
+	background-color: #EA1025;
+	height: 100px;
+}
+
+p{
+	margin: 0px;
+	font: 15px Arial;
+}
+
